@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sourcersupreme
+- 👋 Hi, I’m @Dilip
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning...
-- 💞️ I’m looking free tutor 
 - 📫 How to reach me dilipyadav90382@gmail.com
 
 <!---
